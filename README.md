@@ -74,4 +74,8 @@ Once you've opened the app in your web browser, you can view the candidate's pla
 
 ## Credits
 
-This app was created by me, Steven Lubbe, in collaboration with the political candidate's campaign team.
+This app was created by me, Steven Lubbe, in collaboration with the political candidate's campaign team. 
+
+## VIEW ON GIT 
+
+[View on GitHub](https://github.com/Stevelub/Newrepository)
